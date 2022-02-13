@@ -4,6 +4,12 @@ Neste Projeto criei um crud a sigla para CREATE, READ, UPDATE, DELETE.<br>
 clique<a href="https://aronnascimento1.github.io/CRUD/"> aqui </a>para testar o crud
 
 _________
+🖥️ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- JavaScript Puro.
+_________
 🧑‍💻 Clone ou faça o downlod desse repositório:
 
 ```
